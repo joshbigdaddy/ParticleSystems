@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 1477
+  controlID: 12248
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,10 +46,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 403
-    y: 103
-    width: 951
-    height: 472
+    x: 290
+    y: 19
+    width: 950
+    height: 466
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -58,10 +58,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -475.5
-    m_HBaseRangeMax: 475.5
-    m_VBaseRangeMin: -227.5
-    m_VBaseRangeMax: 227.5
+    m_HBaseRangeMin: -475
+    m_HBaseRangeMax: 475
+    m_VBaseRangeMin: -224.5
+    m_VBaseRangeMax: 224.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -78,25 +78,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 951
-      height: 455
+      width: 950
+      height: 449
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 475.5, y: 227.5}
+    m_Translation: {x: 475, y: 224.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -475.5
-      y: -227.5
-      width: 951
-      height: 455
+      x: -475
+      y: -224.5
+      width: 950
+      height: 449
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 951, y: 472}
+  m_LastWindowPixelSize: {x: 950, y: 466}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -118,12 +118,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1356
+    width: 1242
     height: 926
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 1478
+  controlID: 12249
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,12 +142,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1356
-    height: 493
+    width: 1242
+    height: 487
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 1479
+  controlID: 12250
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,8 +164,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 401
-    height: 493
+    width: 288
+    height: 487
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 6}
@@ -197,13 +197,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 103
-    width: 399
-    height: 472
+    width: 286
+    height: 466
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 06270000
-    m_LastClickedID: 9990
-    m_ExpandedIDs: 1afcffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 1afcffff0000000096270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -240,10 +240,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 401
+    x: 288
     y: 0
-    width: 955
-    height: 493
+    width: 954
+    height: 487
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
@@ -277,19 +277,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 403
+    x: 290
     y: 103
-    width: 951
-    height: 472
+    width: 950
+    height: 466
   m_SceneLighting: 1
-  lastFramingTime: 3234.8822870641984
+  lastFramingTime: 5787.31998267076
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.8407844, y: -1.9168205, z: 2.0676205}
+    m_Target: {x: -1.6180341, y: 1.1755704, z: 0}
     speed: 2
-    m_Value: {x: -1.8407844, y: -1.9168205, z: 2.0676205}
+    m_Value: {x: -1.6180341, y: 1.1755704, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -312,19 +312,19 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.015008678, y: 0.97270805, z: 0.065757714, w: -0.22201303}
+    m_Target: {x: -0.23495479, y: -0.27453732, z: 0.069369726, w: -0.9298468}
     speed: 2
-    m_Value: {x: 0.015008678, y: 0.972708, z: 0.065757714, w: -0.22201303}
+    m_Value: {x: -0.23495477, y: -0.27453732, z: 0.069369726, w: -0.9298468}
   m_Size:
-    m_Target: 1.327549
+    m_Target: 28.303387
     speed: 2
-    m_Value: 1.327549
+    m_Value: 28.303387
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 0
+    m_Value: 1
+  m_LastSceneViewRotation: {x: 0.056322955, y: 0.66087407, z: -0.04988417, w: 0.746716}
+  m_LastSceneViewOrtho: 1
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
@@ -393,9 +393,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 403
+    x: 288
     y: 103
-    width: 951
+    width: 1131
     height: 472
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 403
+    x: 288
     y: 103
-    width: 951
+    width: 1131
     height: 472
 --- !u!114 &12
 MonoBehaviour:
@@ -440,9 +440,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 493
-    width: 1356
-    height: 433
+    y: 487
+    width: 1242
+    height: 439
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
@@ -474,9 +474,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 596
-    width: 1354
-    height: 412
+    y: 590
+    width: 1240
+    height: 418
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -489,19 +489,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/scripts
+    - Assets/prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scripts
+  - Assets/prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\UnityProjects\Particle Systems 3D
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 60260000
-    m_LastClickedID: 9824
-    m_ExpandedIDs: 00000000542600006a2600007c2600007e2600008826000000ca9a3bffffff7f
+    m_SelectedIDs: c8260000
+    m_LastClickedID: 9928
+    m_ExpandedIDs: 00000000ba260000d4260000e8260000ea260000f826000008270000122700004a27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,7 +529,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000542600006a2600007c2600007e2600008826000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ba260000d4260000e8260000ea260000f826000008270000122700004a27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -554,8 +554,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 06270000
-    m_LastClickedInstanceID: 9990
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000782700006628000062330000cedcffff10270000a433000000000000
     m_RenameOverlay:
@@ -607,9 +607,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 596
-    width: 1354
-    height: 412
+    y: 590
+    width: 1240
+    height: 418
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -624,17 +624,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1356
+    x: 1242
     y: 0
-    width: 564
+    width: 678
     height: 926
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
+  - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -657,9 +658,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1358
+    x: 1244
     y: 103
-    width: 562
+    width: 676
     height: 905
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -668,3 +669,3950 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1423
+    y: 103
+    width: 497
+    height: 905
+  progressMessageClearTime: -1
+  notificationClearTime: -1
+  timeSinceLastRotation: -1
+  currentBranchAndRemoteHasUpdate: 0
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 1
+  appManagerProgressHasUpdate: 1
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 1
+    isUserDataPresent: 1
+    lastCheckUserChangedEvent:
+      updatedTimeString: 2018-06-19T18:11:40.136+02:00
+      cacheType: 7
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2018-06-24T17:54:31.611+02:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2018-06-24T17:54:31.625+02:00
+      cacheType: 1
+    currentBranch:
+      name: master
+      tracking: '[None]'
+    currentRemote:
+      name: origin
+      url: https://github.com/joshbigdaddy/Particles3D.git
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: master
+      tracking: '[None]'
+    remoteBranches:
+    - name: origin/master
+      tracking: '[None]'
+  changesView:
+    currentBranchHasUpdate: 1
+    currentStatusEntriesHasUpdate: 1
+    currentLocksHasUpdate: 1
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[master]'
+    treeScroll: {x: 0, y: 0}
+    treeChanges:
+      assets:
+        keys:
+        - 00000000000000001000000000000000
+        - 32d9fcad039c632498a607f4794a41f5
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Particles.unity
+          label: Particles.unity
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Particles.unity
+            fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+            projectPath: Assets\Particles.unity
+            originalPath: 
+            status: 3
+            staged: 0
+      folders:
+        keys:
+        - Assets
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Particles.unity
+        label: Particles.unity
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Particles.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+          projectPath: Assets\Particles.unity
+          originalPath: 
+          status: 3
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    gitStatusEntries:
+    - path: Assets\Particles.unity
+      fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+      projectPath: Assets\Particles.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    changedFilesText: 1 changed file
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2018-08-13T17:28:07.437+02:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-08-13T19:09:58.461+02:00
+      cacheType: 5
+    lastLocksChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      cacheType: 6
+  historyView:
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: 273d6f369aeb39bc3c17a77f47ba9968e82c0d87
+        mergeA: 
+        mergeB: 
+        authorName: Joscifrom
+        authorEmail: joshua.cifuentes.romero@hotmail.com
+        commitEmail: joshua.cifuentes.romero@hotmail.com
+        commitName: Joscifrom
+        summary: Now simulation plays hive-like effects
+        description: "Now simulation plays hive-like effects\r\n\r\nAdded new methods
+          and now Start an Update are set to see a result when playing"
+        timeString: 2018-06-21T20:33:23.000+02:00
+        commitTimeString: 2018-06-21T20:33:23.000+02:00
+        changes:
+        - path: Assets\Plugins\GitHub\Editor.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor.meta
+          projectPath: Assets\Plugins\GitHub\Editor.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Assets\scripts\SPH v2.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+          projectPath: Assets\scripts\SPH v2.cs
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Assets\scripts\SPHv2.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHv2.cs
+          projectPath: Assets\scripts\SPHv2.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: "v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+          fullPath: "D:\\UnityProjects\\Particle Systems 3D\\v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+          projectPath: "v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+          originalPath: Assets\scripts\SPH
+          status: 6
+          staged: 0
+      - commitID: 6f8a720ff683bb873715c187b575a34bf506039b
+        mergeA: 
+        mergeB: 
+        authorName: Joscifrom
+        authorEmail: joshua.cifuentes.romero@hotmail.com
+        commitEmail: joshua.cifuentes.romero@hotmail.com
+        commitName: Joscifrom
+        summary: Added some public variables and developed the initialization of all
+          particles in the scene
+        description: "Added some public variables and developed the initialization
+          of all particles in the scene\r\n\r\nLook for \"We continue here\" for next
+          day of work."
+        timeString: 2018-06-19T20:21:23.000+02:00
+        commitTimeString: 2018-06-19T20:21:23.000+02:00
+        changes:
+        - path: Assets\scripts\SPH v2.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+          projectPath: Assets\scripts\SPH v2.cs
+          originalPath: 
+          status: 3
+          staged: 0
+      - commitID: 3f27ae4fb0cb33e2f162a06eb88d1b19423f874b
+        mergeA: 
+        mergeB: 
+        authorName: Joscifrom
+        authorEmail: joshua.cifuentes.romero@hotmail.com
+        commitEmail: joshua.cifuentes.romero@hotmail.com
+        commitName: Joscifrom
+        summary: First Commit
+        description: First Commit
+        timeString: 2018-06-19T18:15:42.000+02:00
+        commitTimeString: 2018-06-19T18:15:42.000+02:00
+        changes:
+        - path: Assets\Particles.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+          projectPath: Assets\Particles.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Particles.unity.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity.meta
+          projectPath: Assets\Particles.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins.meta
+          projectPath: Assets\Plugins.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub.meta
+          projectPath: Assets\Plugins\GitHub.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor.meta
+          projectPath: Assets\Plugins\GitHub\Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\credits.txt
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt
+          projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\eula.txt
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt
+          projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR.meta
+          projectPath: Assets\RockVR.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common.meta
+          projectPath: Assets\RockVR\Common.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts.meta
+          projectPath: Assets\RockVR\Common\Scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\EventDelegate.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\EventDelegate.cs
+          projectPath: Assets\RockVR\Common\Scripts\EventDelegate.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+          projectPath: Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\FPSDisplay.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\FPSDisplay.cs
+          projectPath: Assets\RockVR\Common\Scripts\FPSDisplay.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+          projectPath: Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Platform.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Platform.cs
+          projectPath: Assets\RockVR\Common\Scripts\Platform.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Platform.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Platform.cs.meta
+          projectPath: Assets\RockVR\Common\Scripts\Platform.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Process.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Process.cs
+          projectPath: Assets\RockVR\Common\Scripts\Process.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Process.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Process.cs.meta
+          projectPath: Assets\RockVR\Common\Scripts\Process.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Singleton.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Singleton.cs
+          projectPath: Assets\RockVR\Common\Scripts\Singleton.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Scripts\Singleton.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Singleton.cs.meta
+          projectPath: Assets\RockVR\Common\Scripts\Singleton.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Textures.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures.meta
+          projectPath: Assets\RockVR\Common\Textures.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Textures\Logo.png
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures\Logo.png
+          projectPath: Assets\RockVR\Common\Textures\Logo.png
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Common\Textures\Logo.png.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures\Logo.png.meta
+          projectPath: Assets\RockVR\Common\Textures\Logo.png.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video.meta
+          projectPath: Assets\RockVR\Video.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo.meta
+          projectPath: Assets\RockVR\Video\Demo.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Audio.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio.meta
+          projectPath: Assets\RockVR\Video\Demo\Audio.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+          projectPath: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+          projectPath: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+          projectPath: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+          projectPath: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+          projectPath: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+          projectPath: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+          projectPath: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+          projectPath: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+          projectPath: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+          projectPath: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Scripts.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts.meta
+          projectPath: Assets\RockVR\Video\Demo\Scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+          projectPath: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+          projectPath: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+          projectPath: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+          projectPath: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Editor.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor.meta
+          projectPath: Assets\RockVR\Video\Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+          projectPath: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+          projectPath: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+          projectPath: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+          projectPath: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins.meta
+          projectPath: Assets\RockVR\Video\Plugins.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+          projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows.meta
+          projectPath: Assets\RockVR\Video\Plugins\Windows.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x64.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64.meta
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x64.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x86.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86.meta
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x86.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+          projectPath: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Readme.pdf
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Readme.pdf
+          projectPath: Assets\RockVR\Video\Readme.pdf
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Readme.pdf.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Readme.pdf.meta
+          projectPath: Assets\RockVR\Video\Readme.pdf.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources.meta
+          projectPath: Assets\RockVR\Video\Resources.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+          projectPath: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+          projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+          projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+          projectPath: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+          projectPath: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+          projectPath: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+          projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts.meta
+          projectPath: Assets\RockVR\Video\Scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\AudioCapture.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\AudioCapture.cs
+          projectPath: Assets\RockVR\Video\Scripts\AudioCapture.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Base.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base.meta
+          projectPath: Assets\RockVR\Video\Scripts\Base.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+          projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+          projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Config.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Config.cs
+          projectPath: Assets\RockVR\Video\Scripts\Config.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Config.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Config.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\Config.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Screenshot.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Screenshot.cs
+          projectPath: Assets\RockVR\Video\Scripts\Screenshot.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Utils.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils.meta
+          projectPath: Assets\RockVR\Video\Scripts\Utils.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Utils\Utils.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils\Utils.cs
+          projectPath: Assets\RockVR\Video\Scripts\Utils\Utils.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoCapture.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCapture.cs
+          projectPath: Assets\RockVR\Video\Scripts\VideoCapture.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+          projectPath: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoPlayer.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoPlayer.cs
+          projectPath: Assets\RockVR\Video\Scripts\VideoPlayer.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+          projectPath: Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders.meta
+          projectPath: Assets\RockVR\Video\Shaders.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CopyReverse.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CopyReverse.shader
+          projectPath: Assets\RockVR\Video\Shaders\CopyReverse.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+          projectPath: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+          projectPath: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+          projectPath: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+          projectPath: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\DownsamplePro.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\DownsamplePro.shader
+          projectPath: Assets\RockVR\Video\Shaders\DownsamplePro.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\FlippingTexture.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\FlippingTexture.shader
+          projectPath: Assets\RockVR\Video\Shaders\FlippingTexture.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Stereoscopic.shader
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Stereoscopic.shader
+          projectPath: Assets\RockVR\Video\Shaders\Stereoscopic.shader
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+          projectPath: Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets.meta
+          projectPath: Assets\StreamingAssets.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR.meta
+          projectPath: Assets\StreamingAssets\RockVR.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg.meta
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+          projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector.meta
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\OSX.meta
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+            Media Metadata Injector
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\OSX\Spatial Media Metadata Injector
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+            Media Metadata Injector
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+            Media Metadata Injector.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\OSX\Spatial Media Metadata Injector.meta
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+            Media Metadata Injector.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\Windows.meta
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+            Media Metadata Injector.exe
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+            Media Metadata Injector.exe
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+            Media Metadata Injector.exe.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+            Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe.meta
+          projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+            Media Metadata Injector.exe.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\prefabs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs.meta
+          projectPath: Assets\prefabs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\prefabs\particle-material.mat
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle-material.mat
+          projectPath: Assets\prefabs\particle-material.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\prefabs\particle-material.mat.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle-material.mat.meta
+          projectPath: Assets\prefabs\particle-material.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\prefabs\particle.prefab
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle.prefab
+          projectPath: Assets\prefabs\particle.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\prefabs\particle.prefab.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle.prefab.meta
+          projectPath: Assets\prefabs\particle.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts.meta
+          projectPath: Assets\scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\FountainGenerator.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainGenerator.cs
+          projectPath: Assets\scripts\FountainGenerator.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\FountainGenerator.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainGenerator.cs.meta
+          projectPath: Assets\scripts\FountainGenerator.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\SPH v2.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+          projectPath: Assets\scripts\SPH v2.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\SPH v2.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs.meta
+          projectPath: Assets\scripts\SPH v2.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\SPHGenerator3D.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHGenerator3D.cs
+          projectPath: Assets\scripts\SPHGenerator3D.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\scripts\SPHGenerator3D.cs.meta
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHGenerator3D.cs.meta
+          projectPath: Assets\scripts\SPHGenerator3D.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\AudioManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\AudioManager.asset
+          projectPath: ProjectSettings\AudioManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ClusterInputManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ClusterInputManager.asset
+          projectPath: ProjectSettings\ClusterInputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\DynamicsManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\DynamicsManager.asset
+          projectPath: ProjectSettings\DynamicsManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\EditorSettings.asset
+          projectPath: ProjectSettings\EditorSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\GraphicsSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\GraphicsSettings.asset
+          projectPath: ProjectSettings\GraphicsSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\InputManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\InputManager.asset
+          projectPath: ProjectSettings\InputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NavMeshAreas.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\NavMeshAreas.asset
+          projectPath: ProjectSettings\NavMeshAreas.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NetworkManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\NetworkManager.asset
+          projectPath: ProjectSettings\NetworkManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\Physics2DSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\Physics2DSettings.asset
+          projectPath: ProjectSettings\Physics2DSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectVersion.txt
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ProjectVersion.txt
+          projectPath: ProjectSettings\ProjectVersion.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\QualitySettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\QualitySettings.asset
+          projectPath: ProjectSettings\QualitySettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TagManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TimeManager.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\TimeManager.asset
+          projectPath: ProjectSettings\TimeManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\UnityConnectSettings.asset
+          fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\UnityConnectSettings.asset
+          projectPath: ProjectSettings\UnityConnectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: cdda7f65a341bbc270b6592f76f4866aaca67ca4
+        mergeA: 
+        mergeB: 
+        authorName: Joscifrom
+        authorEmail: joshua.cifuentes.romero@hotmail.com
+        commitEmail: joshua.cifuentes.romero@hotmail.com
+        commitName: Joscifrom
+        summary: Initial commit
+        description: Initial commit
+        timeString: 2018-06-19T18:15:09.000+02:00
+        commitTimeString: 2018-06-19T18:15:09.000+02:00
+        changes:
+        - path: .gitattributes
+          fullPath: D:\UnityProjects\Particle Systems 3D\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: .gitignore
+          fullPath: D:\UnityProjects\Particle Systems 3D\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\.gitignore
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+      statusAhead: 0
+      selectedIndex: 1
+    selectedEntry:
+      commitID: 6f8a720ff683bb873715c187b575a34bf506039b
+      mergeA: 
+      mergeB: 
+      authorName: Joscifrom
+      authorEmail: joshua.cifuentes.romero@hotmail.com
+      commitEmail: joshua.cifuentes.romero@hotmail.com
+      commitName: Joscifrom
+      summary: Added some public variables and developed the initialization of all
+        particles in the scene
+      description: "Added some public variables and developed the initialization of
+        all particles in the scene\r\n\r\nLook for \"We continue here\" for next day
+        of work."
+      timeString: 2018-06-19T20:21:23.000+02:00
+      commitTimeString: 2018-06-19T20:21:23.000+02:00
+      changes:
+      - path: Assets\scripts\SPH v2.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+        projectPath: Assets\scripts\SPH v2.cs
+        originalPath: 
+        status: 3
+        staged: 0
+    detailsScroll: {x: 0, y: 0}
+    logEntries:
+    - commitID: 273d6f369aeb39bc3c17a77f47ba9968e82c0d87
+      mergeA: 
+      mergeB: 
+      authorName: Joscifrom
+      authorEmail: joshua.cifuentes.romero@hotmail.com
+      commitEmail: joshua.cifuentes.romero@hotmail.com
+      commitName: Joscifrom
+      summary: Now simulation plays hive-like effects
+      description: "Now simulation plays hive-like effects\r\n\r\nAdded new methods
+        and now Start an Update are set to see a result when playing"
+      timeString: 2018-06-21T20:33:23.000+02:00
+      commitTimeString: 2018-06-21T20:33:23.000+02:00
+      changes:
+      - path: Assets\Plugins\GitHub\Editor.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor.meta
+        projectPath: Assets\Plugins\GitHub\Editor.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Assets\scripts\SPH v2.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+        projectPath: Assets\scripts\SPH v2.cs
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Assets\scripts\SPHv2.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHv2.cs
+        projectPath: Assets\scripts\SPHv2.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: "v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+        fullPath: "D:\\UnityProjects\\Particle Systems 3D\\v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+        projectPath: "v2.cs.meta\tAssets\\scripts\\SPHv2.cs.meta"
+        originalPath: Assets\scripts\SPH
+        status: 6
+        staged: 0
+    - commitID: 6f8a720ff683bb873715c187b575a34bf506039b
+      mergeA: 
+      mergeB: 
+      authorName: Joscifrom
+      authorEmail: joshua.cifuentes.romero@hotmail.com
+      commitEmail: joshua.cifuentes.romero@hotmail.com
+      commitName: Joscifrom
+      summary: Added some public variables and developed the initialization of all
+        particles in the scene
+      description: "Added some public variables and developed the initialization of
+        all particles in the scene\r\n\r\nLook for \"We continue here\" for next day
+        of work."
+      timeString: 2018-06-19T20:21:23.000+02:00
+      commitTimeString: 2018-06-19T20:21:23.000+02:00
+      changes:
+      - path: Assets\scripts\SPH v2.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+        projectPath: Assets\scripts\SPH v2.cs
+        originalPath: 
+        status: 3
+        staged: 0
+    - commitID: 3f27ae4fb0cb33e2f162a06eb88d1b19423f874b
+      mergeA: 
+      mergeB: 
+      authorName: Joscifrom
+      authorEmail: joshua.cifuentes.romero@hotmail.com
+      commitEmail: joshua.cifuentes.romero@hotmail.com
+      commitName: Joscifrom
+      summary: First Commit
+      description: First Commit
+      timeString: 2018-06-19T18:15:42.000+02:00
+      commitTimeString: 2018-06-19T18:15:42.000+02:00
+      changes:
+      - path: Assets\Particles.unity
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+        projectPath: Assets\Particles.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Particles.unity.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity.meta
+        projectPath: Assets\Particles.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins.meta
+        projectPath: Assets\Plugins.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub.meta
+        projectPath: Assets\Plugins\GitHub.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor.meta
+        projectPath: Assets\Plugins\GitHub\Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\credits.txt
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt
+        projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\eula.txt
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt
+        projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR.meta
+        projectPath: Assets\RockVR.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common.meta
+        projectPath: Assets\RockVR\Common.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts.meta
+        projectPath: Assets\RockVR\Common\Scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\EventDelegate.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\EventDelegate.cs
+        projectPath: Assets\RockVR\Common\Scripts\EventDelegate.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+        projectPath: Assets\RockVR\Common\Scripts\EventDelegate.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\FPSDisplay.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\FPSDisplay.cs
+        projectPath: Assets\RockVR\Common\Scripts\FPSDisplay.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+        projectPath: Assets\RockVR\Common\Scripts\FPSDisplay.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Platform.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Platform.cs
+        projectPath: Assets\RockVR\Common\Scripts\Platform.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Platform.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Platform.cs.meta
+        projectPath: Assets\RockVR\Common\Scripts\Platform.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Process.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Process.cs
+        projectPath: Assets\RockVR\Common\Scripts\Process.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Process.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Process.cs.meta
+        projectPath: Assets\RockVR\Common\Scripts\Process.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Singleton.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Singleton.cs
+        projectPath: Assets\RockVR\Common\Scripts\Singleton.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Scripts\Singleton.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Scripts\Singleton.cs.meta
+        projectPath: Assets\RockVR\Common\Scripts\Singleton.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Textures.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures.meta
+        projectPath: Assets\RockVR\Common\Textures.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Textures\Logo.png
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures\Logo.png
+        projectPath: Assets\RockVR\Common\Textures\Logo.png
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Common\Textures\Logo.png.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Common\Textures\Logo.png.meta
+        projectPath: Assets\RockVR\Common\Textures\Logo.png.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video.meta
+        projectPath: Assets\RockVR\Video.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo.meta
+        projectPath: Assets\RockVR\Video\Demo.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Audio.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio.meta
+        projectPath: Assets\RockVR\Video\Demo\Audio.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+        projectPath: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+        projectPath: Assets\RockVR\Video\Demo\Audio\SampleAudio.mp3.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+        projectPath: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+        projectPath: Assets\RockVR\Video\Demo\Demo_01_VideoCapture.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+        projectPath: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+        projectPath: Assets\RockVR\Video\Demo\Demo_02_MainCapture.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+        projectPath: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+        projectPath: Assets\RockVR\Video\Demo\Demo_03_360Capture.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+        projectPath: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+        projectPath: Assets\RockVR\Video\Demo\Demo_04_VideoLiveCapture.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Scripts.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts.meta
+        projectPath: Assets\RockVR\Video\Demo\Scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+        projectPath: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+        projectPath: Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+        projectPath: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+        projectPath: Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Editor.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor.meta
+        projectPath: Assets\RockVR\Video\Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+        projectPath: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+        projectPath: Assets\RockVR\Video\Editor\VideoCaptureEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+        projectPath: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+        projectPath: Assets\RockVR\Video\Editor\VideoCaptureMenuEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins.meta
+        projectPath: Assets\RockVR\Video\Plugins.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\Info.plist.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\MacOS\VideoCaptureLib.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+        projectPath: Assets\RockVR\Video\Plugins\OSX\VideoCaptureLib.bundle\Contents\_CodeSignature\CodeResources.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows.meta
+        projectPath: Assets\RockVR\Video\Plugins\Windows.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x64.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64.meta
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x64.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x64\VideoCaptureLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x86.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86.meta
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x86.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+        projectPath: Assets\RockVR\Video\Plugins\Windows\x86\VideoCaptureLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Readme.pdf
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Readme.pdf
+        projectPath: Assets\RockVR\Video\Readme.pdf
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Readme.pdf.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Readme.pdf.meta
+        projectPath: Assets\RockVR\Video\Readme.pdf.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources.meta
+        projectPath: Assets\RockVR\Video\Resources.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+        projectPath: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials\CopyReverse.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+        projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2Equirectangular.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+        projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials\Cubemap2EquirectangularPro.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+        projectPath: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials\CubemapDisplayPro.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+        projectPath: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+        projectPath: Assets\RockVR\Video\Resources\Materials\DownsamplePro.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\360Capture.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\360CapturePro.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapture.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\DedicatedCapturePro.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapture.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\MainCapturePro.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureCtrl.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+        projectPath: Assets\RockVR\Video\Resources\Prefabs\VideoCaptureProCtrl.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts.meta
+        projectPath: Assets\RockVR\Video\Scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\AudioCapture.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\AudioCapture.cs
+        projectPath: Assets\RockVR\Video\Scripts\AudioCapture.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\AudioCapture.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Base.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base.meta
+        projectPath: Assets\RockVR\Video\Scripts\Base.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+        projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+        projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Config.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Config.cs
+        projectPath: Assets\RockVR\Video\Scripts\Config.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Config.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Config.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\Config.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Screenshot.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Screenshot.cs
+        projectPath: Assets\RockVR\Video\Scripts\Screenshot.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\Screenshot.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Utils.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils.meta
+        projectPath: Assets\RockVR\Video\Scripts\Utils.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Utils\Utils.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils\Utils.cs
+        projectPath: Assets\RockVR\Video\Scripts\Utils\Utils.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\Utils\Utils.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoCapture.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCapture.cs
+        projectPath: Assets\RockVR\Video\Scripts\VideoCapture.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\VideoCapture.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+        projectPath: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoPlayer.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoPlayer.cs
+        projectPath: Assets\RockVR\Video\Scripts\VideoPlayer.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+        projectPath: Assets\RockVR\Video\Scripts\VideoPlayer.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders.meta
+        projectPath: Assets\RockVR\Video\Shaders.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CopyReverse.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CopyReverse.shader
+        projectPath: Assets\RockVR\Video\Shaders\CopyReverse.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\CopyReverse.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+        projectPath: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\Cubemap2Equirectangular.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+        projectPath: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\Cubemap2EquirectangularPro.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+        projectPath: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\CubemapDisplayPro.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+        projectPath: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\CubemapToCylindrical.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\DownsamplePro.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\DownsamplePro.shader
+        projectPath: Assets\RockVR\Video\Shaders\DownsamplePro.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\DownsamplePro.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\FlippingTexture.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\FlippingTexture.shader
+        projectPath: Assets\RockVR\Video\Shaders\FlippingTexture.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\FlippingTexture.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Stereoscopic.shader
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Stereoscopic.shader
+        projectPath: Assets\RockVR\Video\Shaders\Stereoscopic.shader
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+        projectPath: Assets\RockVR\Video\Shaders\Stereoscopic.shader.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets.meta
+        projectPath: Assets\StreamingAssets.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR.meta
+        projectPath: Assets\StreamingAssets\RockVR.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg.meta
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+        projectPath: Assets\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector.meta
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\OSX.meta
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+          Media Metadata Injector
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\OSX\Spatial Media Metadata Injector
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+          Media Metadata Injector
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+          Media Metadata Injector.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\OSX\Spatial Media Metadata Injector.meta
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial
+          Media Metadata Injector.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\Windows.meta
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+          Media Metadata Injector.exe
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+          Media Metadata Injector.exe
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+          Media Metadata Injector.exe.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\StreamingAssets\RockVR\Spatial
+          Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe.meta
+        projectPath: Assets\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial
+          Media Metadata Injector.exe.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\prefabs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs.meta
+        projectPath: Assets\prefabs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\prefabs\particle-material.mat
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle-material.mat
+        projectPath: Assets\prefabs\particle-material.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\prefabs\particle-material.mat.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle-material.mat.meta
+        projectPath: Assets\prefabs\particle-material.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\prefabs\particle.prefab
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle.prefab
+        projectPath: Assets\prefabs\particle.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\prefabs\particle.prefab.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle.prefab.meta
+        projectPath: Assets\prefabs\particle.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts.meta
+        projectPath: Assets\scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\FountainGenerator.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainGenerator.cs
+        projectPath: Assets\scripts\FountainGenerator.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\FountainGenerator.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainGenerator.cs.meta
+        projectPath: Assets\scripts\FountainGenerator.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\SPH v2.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+        projectPath: Assets\scripts\SPH v2.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\SPH v2.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs.meta
+        projectPath: Assets\scripts\SPH v2.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\SPHGenerator3D.cs
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHGenerator3D.cs
+        projectPath: Assets\scripts\SPHGenerator3D.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\scripts\SPHGenerator3D.cs.meta
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHGenerator3D.cs.meta
+        projectPath: Assets\scripts\SPHGenerator3D.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\AudioManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\AudioManager.asset
+        projectPath: ProjectSettings\AudioManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ClusterInputManager.asset
+        projectPath: ProjectSettings\ClusterInputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\DynamicsManager.asset
+        projectPath: ProjectSettings\DynamicsManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\EditorSettings.asset
+        projectPath: ProjectSettings\EditorSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\GraphicsSettings.asset
+        projectPath: ProjectSettings\GraphicsSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\InputManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\InputManager.asset
+        projectPath: ProjectSettings\InputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\NavMeshAreas.asset
+        projectPath: ProjectSettings\NavMeshAreas.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\NetworkManager.asset
+        projectPath: ProjectSettings\NetworkManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\Physics2DSettings.asset
+        projectPath: ProjectSettings\Physics2DSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ProjectSettings.asset
+        projectPath: ProjectSettings\ProjectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\ProjectVersion.txt
+        projectPath: ProjectSettings\ProjectVersion.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\QualitySettings.asset
+        projectPath: ProjectSettings\QualitySettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TagManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\TagManager.asset
+        projectPath: ProjectSettings\TagManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\TimeManager.asset
+        projectPath: ProjectSettings\TimeManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        fullPath: D:\UnityProjects\Particle Systems 3D\ProjectSettings\UnityConnectSettings.asset
+        projectPath: ProjectSettings\UnityConnectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: cdda7f65a341bbc270b6592f76f4866aaca67ca4
+      mergeA: 
+      mergeB: 
+      authorName: Joscifrom
+      authorEmail: joshua.cifuentes.romero@hotmail.com
+      commitEmail: joshua.cifuentes.romero@hotmail.com
+      commitName: Joscifrom
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-06-19T18:15:09.000+02:00
+      commitTimeString: 2018-06-19T18:15:09.000+02:00
+      changes:
+      - path: .gitattributes
+        fullPath: D:\UnityProjects\Particle Systems 3D\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: .gitignore
+        fullPath: D:\UnityProjects\Particle Systems 3D\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: D:\UnityProjects\Particle Systems 3D\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+    statusAhead: 0
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys:
+        - Assets
+        - Assets\scripts
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\scripts
+          label: scripts
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 0
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\scripts
+        label: scripts
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\scripts\SPH v2.cs
+        label: SPH v2.cs
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\scripts\SPH v2.cs
+          fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPH v2.cs
+          projectPath: Assets\scripts\SPH v2.cs
+          originalPath: 
+          status: 3
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    lastLogChangedEvent:
+      updatedTimeString: 2018-06-21T20:33:24.901+02:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2018-06-21T20:33:24.800+02:00
+      cacheType: 4
+  settingsView:
+    gitPathView:
+      gitPath: C:\Users\Joshbigdaddy\AppData\Local\GitHubUnity\git\cmd\git.exe
+      gitLfsPath: C:\Users\Joshbigdaddy\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
+      errorMessage: 
+      resetToBundled: 0
+      resetToSystem: 0
+      changingManually: 0
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-06-19T18:40:25.078+02:00
+      cacheType: 1
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://github.com/joshbigdaddy/Particles3D.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/joshbigdaddy/Particles3D.git
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: Joscifrom
+      gitEmail: joshua.cifuentes.romero@hotmail.com
+      newGitName: Joscifrom
+      newGitEmail: joshua.cifuentes.romero@hotmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2018-06-19T18:40:39.093+02:00
+        cacheType: 7
+    webTimeout: 3000
+    gitTimeout: 5000
+  locksView:
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    currentUserHasUpdate: 0
+    locksControl:
+      scroll: {x: 0, y: 0}
+      gitLockEntries: []
+      assets:
+        keys: []
+        values: []
+      gitStatusDictionary:
+        keys: []
+        values: []
+      selectedEntry:
+        gitLock:
+          id: 
+          path: 
+          owner:
+            name: 
+            email: 
+          lockedAtString: 
+        gitFileStatus: 0
+        lockedAt: 1 Jan 0001, 01:00
+    lastLocksChangedEvent:
+      updatedTimeString: 2018-06-24T19:36:03.891+02:00
+      cacheType: 6
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-06-24T19:36:03.891+02:00
+      cacheType: 6
+    lastUserChangedEvent:
+      updatedTimeString: 2018-06-24T19:36:07.167+02:00
+      cacheType: 7
+    lockedFiles: []
+    gitStatusEntries:
+    - path: Assets\Particles.unity
+      fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+      projectPath: Assets\Particles.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\prefabs\particle.prefab
+      fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\particle.prefab
+      projectPath: Assets\prefabs\particle.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\scripts\SPHv2.cs
+      fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHv2.cs
+      projectPath: Assets\scripts\SPHv2.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    currentUsername: joshbigdaddy
+    unlockFileMenuContent:
+      m_Text: Release Lock
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+    forceUnlockFileMenuContent:
+      m_Text: Release Lock (forced)
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+  hasRemote: 1
+  currentRemoteName: master
+  currentBranch: master
+  currentRemoteUrl: https://github.com/joshbigdaddy/Particles3D.git
+  statusAhead: 0
+  statusBehind: 0
+  hasItemsToCommit: 1
+  currentBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  currentRemoteUrlContent:
+    m_Text: https://github.com/joshbigdaddy/Particles3D.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the master remote
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2018-06-26T15:17:22.959+02:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2018-06-26T15:17:23.315+02:00
+    cacheType: 4
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2018-06-26T15:17:22.976+02:00
+    cacheType: 5
+  pullButtonContent:
+    m_Text: Pull
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  pushButtonContent:
+    m_Text: Push
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  refreshButtonContent:
+    m_Text: Refresh
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  fetchButtonContent:
+    m_Text: Fetch
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
+  appManagerProgressValue: 0
+  appManagerProgressMessage: Initializing...

@@ -11,24 +11,11 @@ using UnityEditor;
 [System.Serializable]
 public class SPHGenerator3D : MonoBehaviour
 {
-
-    [Range(2, 10)]
-    public float lifetime = 2;
-    [Range(0f, 1f)]
-    public float waitTime = 0.3f;
-    [Range(0f, 1f)]
-    public float randomness = 0.5f;
     [Range(1, 5000)]
     public int numberOfParticles = 100;
-
     [Range(0, 100)]
     public float gas_constant = 1;
     public float viscosity_constant = 1;
-
-    public GameObject block1;
-    public GameObject block2;
-    public GameObject block3;
-
     public float gravity = 1;
     public GameObject emissionObject;
     public GameObject particle;
@@ -167,7 +154,7 @@ public class SPHGenerator3D : MonoBehaviour
     {
         List<Particle> neighbours = new List<Particle>();
 
-        List<int> neighboursDirections = findNeighbours(particle.hashId, particle.particle.transform.position);
+        List<int> neighboursDirections = findNeighbours(particle.hashId, particle.particle.gameObject.transform.position);
 
         for (int i = 0; i < neighboursDirections.Count; i++)
         {
@@ -179,7 +166,7 @@ public class SPHGenerator3D : MonoBehaviour
                     if (p.particle != null)
                     {
 
-                        float distance = (particle.particle.transform.position - p.particle.transform.position).magnitude;
+                        float distance = (particle.particle.gameObject.transform.position - p.particle.gameObject.transform.position).magnitude;
 
                         float hraised = h;
                         if (p.idPart != particle.idPart && !neighbours.Contains(p) && distance <= hraised)
@@ -286,7 +273,7 @@ public class SPHGenerator3D : MonoBehaviour
 
             part.particle.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
 
-            part.hashId = giveHashId(part.particle.transform.position);
+            part.hashId = giveHashId(part.particle.gameObject.transform.position);
             part.particle.GetComponent<Rigidbody>().isKinematic = true;
 
 
@@ -315,55 +302,55 @@ public class SPHGenerator3D : MonoBehaviour
             // and with the density pi, we calculate the pressure force fpi 
 
             particle.gravity = new Vector3(0, -gravity, 0);
-            if (particle.particle.transform.position.y < -3)
+            if (particle.particle.gameObject.transform.position.y < -3)
             {
                 particle.aceleration = new Vector3(particle.aceleration.x, 0, particle.aceleration.z);
                 particle.velocity = new Vector3(particle.velocity.x, -particle.velocity.y * 0.1f, particle.velocity.z);
 
-                particle.particle.transform.position = new Vector3(particle.particle.transform.position.x, -3f, particle.particle.transform.position.z);
+                particle.particle.gameObject.transform.position = new Vector3(particle.particle.gameObject.transform.position.x, -3f, particle.particle.gameObject.transform.position.z);
             }
 
-            if (particle.particle.transform.position.x < -5 || particle.particle.transform.position.x > -2)
+            if (particle.particle.gameObject.transform.position.x < -5 || particle.particle.gameObject.transform.position.x > -2)
             {
                 particle.aceleration = new Vector3(0, particle.aceleration.y, particle.aceleration.z);
                 particle.velocity = new Vector3(-particle.velocity.x * 0.1f, particle.velocity.y, particle.velocity.z);
 
-                if (particle.particle.transform.position.x < -5)
+                if (particle.particle.gameObject.transform.position.x < -5)
                 {
-                    particle.particle.transform.position = new Vector3(-5f, particle.particle.transform.position.y, particle.particle.transform.position.z);
+                    particle.particle.gameObject.transform.position = new Vector3(-5f, particle.particle.gameObject.transform.position.y, particle.particle.gameObject.transform.position.z);
                 }
                 else
                 {
-                    particle.particle.transform.position = new Vector3(-2f, particle.particle.transform.position.y, particle.particle.transform.position.z);
+                    particle.particle.gameObject.transform.position = new Vector3(-2f, particle.particle.gameObject.transform.position.y, particle.particle.gameObject.transform.position.z);
                 }
 
             }
 
-            if (particle.particle.transform.position.z > 5 || particle.particle.transform.position.z < -2)
+            if (particle.particle.gameObject.transform.position.z > 5 || particle.particle.gameObject.transform.position.z < -2)
             {
                 particle.aceleration = new Vector3(particle.aceleration.x, particle.aceleration.y, particle.aceleration.z);
                 particle.velocity = new Vector3(particle.velocity.x , particle.velocity.y, -particle.velocity.z* 0.1f);
 
-                if (particle.particle.transform.position.z > 5)
+                if (particle.particle.gameObject.transform.position.z > 5)
                 {
-                    particle.particle.transform.position = new Vector3(particle.particle.transform.position.x, particle.particle.transform.position.y, 5f);
+                    particle.particle.gameObject.transform.position = new Vector3(particle.particle.gameObject.transform.position.x, particle.particle.gameObject.transform.position.y, 5f);
                 }
                 else
                 {
-                    particle.particle.transform.position = new Vector3(particle.particle.transform.position.x, particle.particle.transform.position.y, -2f);
+                    particle.particle.gameObject.transform.position = new Vector3(particle.particle.gameObject.transform.position.x, particle.particle.gameObject.transform.position.y, -2f);
                 }
 
             }//*/
 
 
-            particle.particle.transform.position += (0.5f * particle.aceleration * Mathf.Pow(0.001f, 2)) + particle.velocity * 0.001f;
+            particle.particle.gameObject.transform.position += (0.5f * particle.aceleration * Mathf.Pow(0.001f, 2)) + particle.velocity * 0.001f;
 
 
 
 
             //Once position is recalculated we proceed to calculate the velocity of our next iteration
             particle.velocity += particle.aceleration * 0.001f;
-            particle.hashId = giveHashId(particle.particle.transform.position);
+            particle.hashId = giveHashId(particle.particle.gameObject.transform.position);
             addToHash(particle.hashId, particle);
 
             StartCoroutine(WaveColor(particle));
@@ -404,7 +391,7 @@ public class SPHGenerator3D : MonoBehaviour
 
         foreach (Particle p in particles)
         {
-            if (p.idPart != particle.idPart && (p.particle.transform.position - particle.particle.transform.position).magnitude <= h)
+            if (p.idPart != particle.idPart && (p.particle.gameObject.transform.position - particle.particle.gameObject.transform.position).magnitude <= h)
             {
                 parts.Add(p);
             }
@@ -418,7 +405,7 @@ public class SPHGenerator3D : MonoBehaviour
         float sumPi = smooth_norm;
         for (int i = 0; i < particle.neighbours.Count; i++)
         {
-            float distance = (particle.particle.transform.position - particle.neighbours[i].particle.transform.position).magnitude;
+            float distance = (particle.particle.gameObject.transform.position - particle.neighbours[i].particle.gameObject.transform.position).magnitude;
             float spiky_smoothing_kernel = smooth_norm * Mathf.Pow((1 - distance) / h, 3);
             sumPi += particle.neighbours[i].mass * spiky_smoothing_kernel;
         }
@@ -431,7 +418,7 @@ public class SPHGenerator3D : MonoBehaviour
         Vector3 fpi_final = new Vector3(0, 0, 0);
         for (int i = 0; i < particle.neighbours.Count; i++)
         {
-            Vector3 distance = particle.particle.transform.position - particle.neighbours[i].particle.transform.position;
+            Vector3 distance = particle.particle.gameObject.transform.position - particle.neighbours[i].particle.gameObject.transform.position;
             float pj = gas_constant * particle.neighbours[i].density;
             Vector3 kernel = (45 / (Mathf.PI * h * h * h * h)) * Mathf.Pow(1 - distance.magnitude / h, 2) * (distance / distance.magnitude);
             fpi_final += (particle.neighbours[i].mass / pj) * ((particle.density + pj) / 2) * kernel;
@@ -446,7 +433,7 @@ public class SPHGenerator3D : MonoBehaviour
         Vector3 fpi_final = new Vector3(0, 0, 0);
         for (int i = 0; i < particle.neighbours.Count; i++)
         {
-            Vector3 distance = particle.neighbours[i].particle.transform.position - particle.particle.transform.position;
+            Vector3 distance = particle.neighbours[i].particle.gameObject.transform.position - particle.particle.gameObject.transform.position;
             fpi_final += K * ((h - distance.magnitude) / distance.magnitude) * distance;
         }
 
@@ -458,7 +445,7 @@ public class SPHGenerator3D : MonoBehaviour
         Vector3 fv_final = new Vector3(0, 0, 0);
         for (int i = 0; i < particle.neighbours.Count; i++)
         {
-            Vector3 distance = particle.particle.transform.position - particle.neighbours[i].particle.transform.position;
+            Vector3 distance = particle.particle.gameObject.transform.position - particle.neighbours[i].particle.gameObject.transform.position;
 
 
             Vector3 velocity = particle.neighbours[i].velocity - particle.velocity;

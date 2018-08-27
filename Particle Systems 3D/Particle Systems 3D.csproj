@@ -95,7 +95,10 @@
     <Compile Include="Assets\RockVR\Video\Scripts\VideoCaptureCtrl.cs" />
     <Compile Include="Assets\RockVR\Video\Scripts\VideoPlayer.cs" />
     <Compile Include="Assets\scripts\FountainGenerator.cs" />
+    <Compile Include="Assets\scripts\FountainSimple.cs" />
+    <Compile Include="Assets\scripts\RingSimulator.cs" />
     <Compile Include="Assets\scripts\SPHGenerator3D.cs" />
+    <Compile Include="Assets\scripts\SPHv2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RockVR\Video\Shaders\CopyReverse.shader" />
