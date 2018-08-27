@@ -10,25 +10,12 @@ using UnityEditor;
 public class SPHGenerator : MonoBehaviour
 {
 
-    [Range(2, 10)]
-    public float lifetime = 2;
-    [Range(0f, 1f)]
-    public float waitTime = 0.3f;
-    [Range(0f, 1f)]
-    public float randomness = 0.5f;
     [Range(1, 500)]
     public int numberOfParticles = 100;
-
     [Range(0, 100)]
     public float gas_constant = 1;
     public float viscosity_constant = 1;
-
-    public GameObject block1;
-    public GameObject block2;
-    public GameObject block3;
-
     public float gravity = 1;
-    public GameObject emissionObject;
     public GameObject particle;
     [Range(100, 2000)]
     private int numberOfCellsInHash = 1000;

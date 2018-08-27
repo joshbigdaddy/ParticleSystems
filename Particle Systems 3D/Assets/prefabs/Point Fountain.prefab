@@ -26,7 +26,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4259933631214048
 Transform:
   m_ObjectHideFlags: 1
@@ -58,9 +58,6 @@ MonoBehaviour:
   origin: {x: 0, y: 0, z: 0}
   particles:
   - {fileID: 1827923402503038, guid: 6656f9772ae7b21478f38a6689b6cab2, type: 2}
-  - {fileID: 1027920567515084, guid: 6cc8c56d4c2e220449b7fe39bc10c1a8, type: 2}
-  - {fileID: 1512961447883268, guid: fab51ba9befebe040b96255d6919585e, type: 2}
+  - {fileID: 1866684191372770, guid: 1624594267f1e084885181eb6dc542d9, type: 2}
   colors:
-  - {fileID: 2100000, guid: 70ef1fab03a0d1242af185a0bb3d84b1, type: 2}
-  - {fileID: 2100000, guid: 4e3a85b1a3d1af0468fd1660f749be1b, type: 2}
-  - {fileID: 2100000, guid: 3c0a1ba209445a94fac41ea3a408b944, type: 2}
+  - {fileID: 2100000, guid: fc7fda5c500993647a3e34674a42526f, type: 2}

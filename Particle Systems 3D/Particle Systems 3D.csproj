@@ -78,13 +78,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\RockVR\Common\Scripts\EventDelegate.cs" />
-    <Compile Include="Assets\RockVR\Common\Scripts\FPSDisplay.cs" />
-    <Compile Include="Assets\RockVR\Common\Scripts\Platform.cs" />
-    <Compile Include="Assets\RockVR\Common\Scripts\Process.cs" />
-    <Compile Include="Assets\RockVR\Common\Scripts\Singleton.cs" />
-    <Compile Include="Assets\RockVR\Video\Demo\Scripts\AutoRotate.cs" />
-    <Compile Include="Assets\RockVR\Video\Demo\Scripts\VideoCaptureUI.cs" />
     <Compile Include="Assets\RockVR\Video\Scripts\AudioCapture.cs" />
     <Compile Include="Assets\RockVR\Video\Scripts\Base\VideoCaptureBase.cs" />
     <Compile Include="Assets\RockVR\Video\Scripts\Base\VideoCaptureCtrlBase.cs" />

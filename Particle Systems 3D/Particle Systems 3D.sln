@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Systems 3D", "Particle Systems 3D.csproj", "{923E58D2-1496-7A0F-045C-F4A16FD5CBFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Systems 3D.Editor", "Particle Systems 3D.Editor.csproj", "{C825C227-3CBD-DC23-0528-79C0C8E229FB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{923E58D2-1496-7A0F-045C-F4A16FD5CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923E58D2-1496-7A0F-045C-F4A16FD5CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923E58D2-1496-7A0F-045C-F4A16FD5CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C825C227-3CBD-DC23-0528-79C0C8E229FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C825C227-3CBD-DC23-0528-79C0C8E229FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C825C227-3CBD-DC23-0528-79C0C8E229FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C825C227-3CBD-DC23-0528-79C0C8E229FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

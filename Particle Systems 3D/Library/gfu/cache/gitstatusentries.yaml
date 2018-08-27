@@ -1,0 +1,479 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-08-22T18:53:51.400+02:00
+  initializedAtString: 2018-08-22T18:15:39.392+02:00
+  entries:
+  - path: Assets\Particles.unity
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Particles.unity
+    projectPath: Assets\Particles.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\prefabs\Blue.mat
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Blue.mat
+    projectPath: Assets\prefabs\Blue.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Blue.mat.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Blue.mat.meta
+    projectPath: Assets\prefabs\Blue.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Capsule.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Capsule.prefab
+    projectPath: Assets\prefabs\Capsule.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Capsule.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Capsule.prefab.meta
+    projectPath: Assets\prefabs\Capsule.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Coin.max
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Coin.max
+    projectPath: Assets\prefabs\Coin.max
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Coin.max.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Coin.max.meta
+    projectPath: Assets\prefabs\Coin.max.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Cube.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Cube.prefab
+    projectPath: Assets\prefabs\Cube.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Cube.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Cube.prefab.meta
+    projectPath: Assets\prefabs\Cube.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Cylinder.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Cylinder.prefab
+    projectPath: Assets\prefabs\Cylinder.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Cylinder.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Cylinder.prefab.meta
+    projectPath: Assets\prefabs\Cylinder.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Lava.mat
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Lava.mat
+    projectPath: Assets\prefabs\Lava.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Lava.mat.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Lava.mat.meta
+    projectPath: Assets\prefabs\Lava.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Light Green.mat
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Light Green.mat
+    projectPath: Assets\prefabs\Light Green.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Light Green.mat.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Light Green.mat.meta
+    projectPath: Assets\prefabs\Light Green.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Materials.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Materials.meta
+    projectPath: Assets\prefabs\Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Materials\No Name.mat
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Materials\No Name.mat
+    projectPath: Assets\prefabs\Materials\No Name.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Materials\No Name.mat.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Materials\No Name.mat.meta
+    projectPath: Assets\prefabs\Materials\No Name.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Point Fountain.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Point Fountain.prefab
+    projectPath: Assets\prefabs\Point Fountain.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Point Fountain.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Point Fountain.prefab.meta
+    projectPath: Assets\prefabs\Point Fountain.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Red.mat
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Red.mat
+    projectPath: Assets\prefabs\Red.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Red.mat.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Red.mat.meta
+    projectPath: Assets\prefabs\Red.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Sphere.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Sphere.prefab
+    projectPath: Assets\prefabs\Sphere.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Sphere.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Sphere.prefab.meta
+    projectPath: Assets\prefabs\Sphere.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Spykes.max
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Spykes.max
+    projectPath: Assets\prefabs\Spykes.max
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Spykes.max.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Spykes.max.meta
+    projectPath: Assets\prefabs\Spykes.max.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Spykes.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Spykes.prefab
+    projectPath: Assets\prefabs\Spykes.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Spykes.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Spykes.prefab.meta
+    projectPath: Assets\prefabs\Spykes.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Star.max
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Star.max
+    projectPath: Assets\prefabs\Star.max
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Star.max.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Star.max.meta
+    projectPath: Assets\prefabs\Star.max.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Star.prefab
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Star.prefab
+    projectPath: Assets\prefabs\Star.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\prefabs\Star.prefab.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\prefabs\Star.prefab.meta
+    projectPath: Assets\prefabs\Star.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\FountainSimple.cs
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainSimple.cs
+    projectPath: Assets\scripts\FountainSimple.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\FountainSimple.cs.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\FountainSimple.cs.meta
+    projectPath: Assets\scripts\FountainSimple.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\RingSimulator.cs
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\RingSimulator.cs
+    projectPath: Assets\scripts\RingSimulator.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\RingSimulator.cs.meta
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\RingSimulator.cs.meta
+    projectPath: Assets\scripts\RingSimulator.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\SPHGenerator3D.cs
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHGenerator3D.cs
+    projectPath: Assets\scripts\SPHGenerator3D.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\SPHv2.cs
+    fullPath: D:\UnityProjects\Particle Systems 3D\Assets\scripts\SPHv2.cs
+    projectPath: Assets\scripts\SPHv2.cs
+    originalPath: 
+    status: 3
+    staged: 0

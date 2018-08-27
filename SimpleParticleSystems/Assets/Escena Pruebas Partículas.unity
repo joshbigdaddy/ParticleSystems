@@ -163,18 +163,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25b1d29f7f3f1914d9f4e32c5a1ea3d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifetime: 2
-  waitTime: 0.3
+  lifetime: 3.47
+  waitTime: 1
   randomness: 1
-  numberOfParticles: 79
+  numberOfParticles: 75
   angleRange: 180
   elasticity: 1
-  manualVelocities: 1
-  velocity: 2
+  manualVelocities: 0
+  velocity: 15.11
   velocityOfXAxis: 1
   velocityOfYAxis: 1
   RigidBodySimulation: 0
-  gravity: 100.14
+  gravity: 2
   numberOfCollisionsPermitted: 4
   emissionObject: {fileID: 1368574670}
   particle: {fileID: 1414800935856440, guid: 6ff88453eae4e03448a38a07992558e5, type: 2}
@@ -277,7 +277,7 @@ GameObject:
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1483570849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,17 +289,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0e5b2b5e8fbc9343899c35cdf75ca7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifetime: 10
-  waitTime: 0.3
-  randomness: 0.5
   numberOfParticles: 141
   gas_constant: 0.4
   viscosity_constant: 0.57
-  block1: {fileID: 0}
-  block2: {fileID: 0}
-  block3: {fileID: 0}
   gravity: 2.69
-  emissionObject: {fileID: 491594916}
   particle: {fileID: 1063398701394500, guid: 26334a1ea2fa5ae4faa89b2e161c1e79, type: 2}
 --- !u!4 &1483570850
 Transform:
@@ -490,7 +483,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2054009421
 Transform:
   m_ObjectHideFlags: 0
@@ -518,9 +511,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifetime: 15
-  forceRanges: 500
+  forceRanges: 1080.29
   waitTime: 1
-  numberOfParticles: 15
-  angleRange: 180
+  numberOfParticles: 889
+  angleRange: 360
   particle: {fileID: 1911460908465374, guid: 0b08d195b4ad01e4d866a3d5812c78d1, type: 2}
   isExplosionDivided: 1
